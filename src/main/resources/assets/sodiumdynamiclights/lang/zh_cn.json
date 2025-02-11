@@ -1,6 +1,6 @@
 {
-  "sodiumdynamiclights.menu.light_sources": "动态光照",
-  "sodiumdynamiclights.menu.title": "SodiumDiumdynamicLights设置",
+  "sodiumdynamiclights.menu.light_sources": "动态光源",
+  "sodiumdynamiclights.menu.title": "Sodium动态光源设置",
   "sodiumdynamiclights.menu.canvas.1": "使用Canvas渲染器时建议禁用实体动态光照！",
   "sodiumdynamiclights.menu.canvas.2": "Canvas渲染器的动态光照目前性能消耗较高！",
   "sodiumdynamiclights.menu.tabs.general": "通用设置",
@@ -21,7 +21,7 @@
 
   "sodium.dynamiclights.options.page": "动态光照",
   "sodium.dynamiclights.options.mode": "质量模式",
-  "sodium.dynamiclights.options.mode.desc": "配置动态光照的更新频率",
+  "sodium.dynamiclights.options.mode.desc": "配置动态光源的更新频率",
   "sodium.dynamiclights.options.self": "手持光源",
   "sodium.dynamiclights.options.self.desc": "启用第一人称动态光照。若使用自带动态光影的着色器建议关闭此选项。",
   "sodium.dynamiclights.options.entities": "实体动态光照",
